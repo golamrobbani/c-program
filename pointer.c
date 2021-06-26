@@ -7,7 +7,7 @@ void main(){
     printf("%d\n",*a);
     printf("%d\n",b);
 
-    b=100;
+    b=200;
     printf("%d",*a);
 
 }
